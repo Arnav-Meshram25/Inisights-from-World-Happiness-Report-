@@ -18,13 +18,14 @@ Meanwhile, countries like Vietnam and Uzbekistan, which aren’t usually in the 
 On the flip side, Afghanistan consistently ranks at or near the bottom in multiple dimensions — a heartbreaking but unsurprising result given the ongoing humanitarian crisis.
 
  Unexpected or Contrarian Patterns
+ 
 High GDP ≠ High Happiness. This one keeps coming up. Some countries with enormous wealth don’t necessarily rank high on happiness — suggesting that money without trust or freedom doesn’t guarantee well-being.
 
 Generosity isn't linked to income. Countries like Myanmar, Kenya, and Indonesia rank very high in generosity, despite being far from economically prosperous. There’s clearly something cultural going on there.
 
 One of the strongest predictors of happiness across countries is Social Support — not GDP, not freedom, and not even health. This alone is worth deeper exploration in policymaking.
 
-📝 Summary
+ Summary
 This dataset goes far beyond just numbers — it tells stories. Stories about resilience, inequality, trust, and community. While GDP and economic indicators still matter, this dashboard makes one thing very clear:
 
 "People don’t just want to be rich — they want to feel supported, safe, and free."
